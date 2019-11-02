@@ -6,7 +6,7 @@ Elimina el popup del login y sigue viendo las fotos de instagram sin logueo.
 
 ## ¿Cómo usarlo?
 
-1. Crea un marcador cualquiera (bookmarker).
+1. Crea un marcador cualquiera (Bookmark).
 2. Ingresa a las propiedades para editarlo.
 3. Copia y pega el contenido de app.js .
 4. Listo.
