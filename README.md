@@ -2,6 +2,8 @@
 
 Elimina el popup del login y sigue viendo las fotos de instagram sin logueo.
 
+Tip: Si no te deja abrir una foto, solo haz click derecho y selecciona "abrir en otra pestaña".
+
 ![](https://media.giphy.com/media/IziuTs2I6qcrJJhoDb/giphy.gif)
 
 ## ¿Cómo usarlo?
